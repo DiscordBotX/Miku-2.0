@@ -1,0 +1,6 @@
+{
+  "DESCRIPTION": "Pile ou Face.",
+  "USAGE": "flip",
+  "HEADS": "Face",
+  "TAILS": "Pile"
+}
